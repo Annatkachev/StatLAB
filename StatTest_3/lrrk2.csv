@@ -1,0 +1,17 @@
+,Diagnosis,Layer,Region,Donor,LRRK2
+0,Control,L1,Region 22p,S1,73.08
+1,Control,L1,Region 9,S1,101.87
+2,SZ,L1,Region 22p,S10,96.84
+3,SZ,L1,Region 9,S10,121.01
+4,Control,L1,Region 22p,S11,141.14
+5,Control,L1,Region 9,S11,173.86
+6,Control,L1,Region 22p,S12,142.01
+7,Control,L1,Region 9,S12,171.28
+8,SZ,L1,Region 22p,S2,8.49
+9,SZ,L1,Region 9,S2,35.75
+10,Control,L1,Region 22p,S3,92.49
+11,Control,L1,Region 9,S3,82.9
+12,SZ,L1,Region 22p,S4,77.84
+13,SZ,L1,Region 9,S4,31.34
+14,SZ,L1,Region 22p,S9,3.25
+15,SZ,L1,Region 9,S9,133.49
