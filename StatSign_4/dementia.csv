@@ -1,128 +1,128 @@
-,sex,do you consume alcohol?,MMSE,dementia
-0,male,not currently,29.0,0.0
-1,male,not currently,14.0,1.0
-2,male,not currently,28.0,0.0
-3,female,not currently,27.0,0.0
-4,female,not currently,18.0,1.0
-5,male,not currently,21.0,0.0
-6,female,not currently,17.0,1.0
-7,male,not currently,15.0,0.0
-8,female,not currently,22.0,0.0
-9,male,not currently,15.0,0.0
-10,male,not currently,26.0,0.0
-11,female,not currently,18.0,1.0
-12,male,not currently,28.0,0.0
-13,female,not currently,14.0,1.0
-14,male,not currently,20.0,1.0
-15,male,not currently,27.0,0.0
-16,male,not currently,26.0,0.0
-17,male,not currently,20.0,1.0
-18,male,not currently,21.0,1.0
-19,female,not currently,11.0,1.0
-20,female,not currently,13.0,1.0
-21,female,not currently,20.0,1.0
-22,female,not currently,15.0,1.0
-23,male,not currently,19.0,1.0
-24,male,not currently,28.0,0.0
-25,female,not currently,26.0,0.0
-26,male,not currently,21.0,1.0
-27,male,not currently,24.0,0.0
-28,male,not currently,17.0,1.0
-29,female,not currently,29.0,0.0
-30,male,not currently,29.0,0.0
-31,male,not currently,30.0,0.0
-32,male,not currently,28.0,0.0
-33,male,not currently,20.0,1.0
-34,male,not currently,16.0,1.0
-35,male,not currently,9.0,1.0
-36,male,not currently,28.0,0.0
-37,female,not currently,11.0,1.0
-38,male,not currently,18.0,1.0
-39,female,not currently,14.0,1.0
-40,female,not currently,14.0,1.0
-41,male,not currently,29.0,0.0
-42,female,not currently,14.0,1.0
-43,female,not currently,20.0,1.0
-44,male,not currently,24.0,0.0
-45,male,not currently,25.0,0.0
-46,female,not currently,29.0,0.0
-47,male,not currently,14.0,1.0
-48,female,not currently,16.0,1.0
-49,female,not currently,24.0,1.0
-50,female,not currently,18.0,1.0
-51,female,not currently,19.0,1.0
-52,female,not currently,8.0,1.0
-53,female,not currently,10.0,1.0
-54,female,not currently,28.0,0.0
-55,female,not currently,16.0,1.0
-56,male,not currently,14.0,1.0
-57,female,not currently,16.0,1.0
-58,female,not currently,17.0,1.0
-59,female,not currently,8.0,1.0
-60,male,not currently,20.0,1.0
-61,female,not currently,23.0,1.0
-62,female,not currently,28.0,0.0
-63,female,not currently,16.0,1.0
-64,female,not currently,12.0,1.0
-65,male,not currently,12.0,1.0
-66,female,not currently,17.0,1.0
-67,female,not currently,13.0,1.0
-68,female,not currently,22.0,1.0
-69,female,not currently,16.0,1.0
-70,male,not currently,11.0,1.0
-71,female,not currently,24.0,0.0
-72,female,not currently,17.0,1.0
-73,female,not currently,27.0,0.0
-74,male,not currently,21.0,1.0
-75,female,not currently,26.0,0.0
-76,female,not currently,23.0,0.0
-77,male,not currently,27.0,0.0
-78,male,not currently,28.0,0.0
-79,male,not currently,18.0,1.0
-80,female,not currently,22.0,1.0
-81,female,not currently,17.0,1.0
-82,male,not currently,29.0,0.0
-83,female,not currently,22.0,1.0
-84,female,not currently,23.0,0.0
-85,male,not currently,15.0,1.0
-86,female,not currently,24.0,0.0
-87,female,not currently,12.0,1.0
-88,female,not currently,22.0,0.0
-89,male,yes,28.0,0.0
-90,male,yes,27.0,0.0
-91,female,yes,15.0,1.0
-92,female,yes,20.0,0.0
-93,female,yes,10.0,1.0
-94,male,yes,30.0,0.0
-95,female,yes,20.0,1.0
-96,female,yes,25.0,0.0
-97,female,yes,23.0,1.0
-98,male,yes,25.0,0.0
-99,female,yes,27.0,0.0
-100,male,yes,12.0,1.0
-101,female,yes,10.0,1.0
-102,male,yes,27.0,0.0
-103,male,yes,21.0,1.0
-104,male,yes,29.0,0.0
-105,male,yes,28.0,0.0
-106,male,yes,18.0,1.0
-107,male,yes,27.0,0.0
-108,male,yes,23.0,1.0
-109,male,yes,10.0,1.0
-110,female,yes,19.0,1.0
-111,male,yes,29.0,0.0
-112,male,yes,17.0,1.0
-113,male,yes,22.0,1.0
-114,female,yes,18.0,1.0
-115,male,yes,29.0,0.0
-116,male,yes,29.0,0.0
-117,female,yes,27.0,0.0
-118,male,yes,20.0,1.0
-119,female,yes,23.0,0.0
-120,male,yes,30.0,0.0
-121,female,yes,23.0,0.0
-122,female,yes,28.0,0.0
-123,male,yes,21.0,1.0
-124,female,yes,16.0,1.0
-125,male,yes,18.0,1.0
-126,female,yes,29.0,0.0
+,sex,age,do you consume alcohol?,MMSE,dementia
+0,male,93,not currently,29.0,0.0
+1,male,97,not currently,14.0,1.0
+2,male,90,not currently,28.0,0.0
+3,female,90,not currently,27.0,0.0
+4,female,90,not currently,18.0,1.0
+5,male,91,not currently,21.0,0.0
+6,female,91,not currently,17.0,1.0
+7,male,92,not currently,15.0,0.0
+8,female,97,not currently,22.0,0.0
+9,male,90,not currently,15.0,0.0
+10,male,92,not currently,26.0,0.0
+11,female,94,not currently,18.0,1.0
+12,male,93,not currently,28.0,0.0
+13,female,94,not currently,14.0,1.0
+14,male,93,not currently,20.0,1.0
+15,male,90,not currently,27.0,0.0
+16,male,90,not currently,26.0,0.0
+17,male,91,not currently,20.0,1.0
+18,male,91,not currently,21.0,1.0
+19,female,95,not currently,11.0,1.0
+20,female,92,not currently,13.0,1.0
+21,female,90,not currently,20.0,1.0
+22,female,92,not currently,15.0,1.0
+23,male,93,not currently,19.0,1.0
+24,male,92,not currently,28.0,0.0
+25,female,97,not currently,26.0,0.0
+26,male,96,not currently,21.0,1.0
+27,male,95,not currently,24.0,0.0
+28,male,92,not currently,17.0,1.0
+29,female,92,not currently,29.0,0.0
+30,male,92,not currently,29.0,0.0
+31,male,92,not currently,30.0,0.0
+32,male,95,not currently,28.0,0.0
+33,male,92,not currently,20.0,1.0
+34,male,92,not currently,16.0,1.0
+35,male,94,not currently,9.0,1.0
+36,male,90,not currently,28.0,0.0
+37,female,99,not currently,11.0,1.0
+38,male,91,not currently,18.0,1.0
+39,female,99,not currently,14.0,1.0
+40,female,90,not currently,14.0,1.0
+41,male,90,not currently,29.0,0.0
+42,female,90,not currently,14.0,1.0
+43,female,96,not currently,20.0,1.0
+44,male,91,not currently,24.0,0.0
+45,male,90,not currently,25.0,0.0
+46,female,93,not currently,29.0,0.0
+47,male,93,not currently,14.0,1.0
+48,female,101,not currently,16.0,1.0
+49,female,90,not currently,24.0,1.0
+50,female,95,not currently,18.0,1.0
+51,female,89,not currently,19.0,1.0
+52,female,92,not currently,8.0,1.0
+53,female,90,not currently,10.0,1.0
+54,female,90,not currently,28.0,0.0
+55,female,98,not currently,16.0,1.0
+56,male,92,not currently,14.0,1.0
+57,female,90,not currently,16.0,1.0
+58,female,96,not currently,17.0,1.0
+59,female,90,not currently,8.0,1.0
+60,male,94,not currently,20.0,1.0
+61,female,97,not currently,23.0,1.0
+62,female,92,not currently,28.0,0.0
+63,female,94,not currently,16.0,1.0
+64,female,90,not currently,12.0,1.0
+65,male,93,not currently,12.0,1.0
+66,female,93,not currently,17.0,1.0
+67,female,91,not currently,13.0,1.0
+68,female,94,not currently,22.0,1.0
+69,female,92,not currently,16.0,1.0
+70,male,96,not currently,11.0,1.0
+71,female,92,not currently,24.0,0.0
+72,female,94,not currently,17.0,1.0
+73,female,96,not currently,27.0,0.0
+74,male,93,not currently,21.0,1.0
+75,female,90,not currently,26.0,0.0
+76,female,93,not currently,23.0,0.0
+77,male,91,not currently,27.0,0.0
+78,male,94,not currently,28.0,0.0
+79,male,91,not currently,18.0,1.0
+80,female,93,not currently,22.0,1.0
+81,female,92,not currently,17.0,1.0
+82,male,90,not currently,29.0,0.0
+83,female,92,not currently,22.0,1.0
+84,female,90,not currently,23.0,0.0
+85,male,93,not currently,15.0,1.0
+86,female,93,not currently,24.0,0.0
+87,female,91,not currently,12.0,1.0
+88,female,91,not currently,22.0,0.0
+89,male,96,yes,28.0,0.0
+90,male,93,yes,27.0,0.0
+91,female,92,yes,15.0,1.0
+92,female,91,yes,20.0,0.0
+93,female,91,yes,10.0,1.0
+94,male,90,yes,30.0,0.0
+95,female,93,yes,20.0,1.0
+96,female,93,yes,25.0,0.0
+97,female,88,yes,23.0,1.0
+98,male,90,yes,25.0,0.0
+99,female,92,yes,27.0,0.0
+100,male,98,yes,12.0,1.0
+101,female,100,yes,10.0,1.0
+102,male,92,yes,27.0,0.0
+103,male,90,yes,21.0,1.0
+104,male,94,yes,29.0,0.0
+105,male,90,yes,28.0,0.0
+106,male,92,yes,18.0,1.0
+107,male,95,yes,27.0,0.0
+108,male,93,yes,23.0,1.0
+109,male,93,yes,10.0,1.0
+110,female,90,yes,19.0,1.0
+111,male,96,yes,29.0,0.0
+112,male,95,yes,17.0,1.0
+113,male,94,yes,22.0,1.0
+114,female,90,yes,18.0,1.0
+115,male,92,yes,29.0,0.0
+116,male,90,yes,29.0,0.0
+117,female,91,yes,27.0,0.0
+118,male,93,yes,20.0,1.0
+119,female,90,yes,23.0,0.0
+120,male,91,yes,30.0,0.0
+121,female,91,yes,23.0,0.0
+122,female,90,yes,28.0,0.0
+123,male,92,yes,21.0,1.0
+124,female,91,yes,16.0,1.0
+125,male,91,yes,18.0,1.0
+126,female,91,yes,29.0,0.0
